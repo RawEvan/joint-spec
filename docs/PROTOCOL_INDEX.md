@@ -2,10 +2,10 @@
 
 [English](en/PROTOCOL_INDEX.md)
 
-将增补。本页只链**已公开且已存在**的协议仓；不放占位链接。
+本页只链**已公开且已存在**的协议仓；不放占位链接。
 
 | 协议 | 仓库 | 说明 |
 | --- | --- | --- |
-| （暂无） | — | Phase 0 发布时索引为空 |
+| Open Run Protocol（ORP）与 Backend Profile（ORBP） | https://github.com/RawEvan/open-run | 编排方 → 执行方；内部 backends 另有 schema |
 
-线协议仓创建后，在同一提交中把真实 URL 写入本表。
+新协议仓创建后，在同一提交中把真实 URL 写入本表。
