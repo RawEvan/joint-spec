@@ -30,7 +30,7 @@
    The protocol describes one origin. Merging providers is orchestrator work.
 
 10. **No product state machine in the protocol**  
-    Protocols own lifecycle and opaque payloads; hosts own business state. Executors do not branch on business labels.
+    Protocols own lifecycle and opaque payloads; hosts own business state. Executors do not branch on business labels. A business joint may be its own protocol; see [PROJECT_JOINTS.md](PROJECT_JOINTS.md). What stays out is another product's state machine inside the current protocol.
 
 ## When agents create fast
 

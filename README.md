@@ -25,6 +25,7 @@
 | [docs/PRINCIPLES.md](docs/PRINCIPLES.md) | 十条原则 |
 | [docs/VERSIONING.md](docs/VERSIONING.md) | 版本管理（三层分号） |
 | [docs/NEW_PROTOCOL.md](docs/NEW_PROTOCOL.md) | 怎么开新协议 |
+| [docs/PROJECT_JOINTS.md](docs/PROJECT_JOINTS.md) | 交付链上的四份协议 |
 | [docs/PROTOCOL_INDEX.md](docs/PROTOCOL_INDEX.md) | 协议族索引 |
 | [templates/protocol-repo/](templates/protocol-repo/) | 可拷贝的协议仓骨架 |
 

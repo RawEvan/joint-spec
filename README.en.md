@@ -23,6 +23,7 @@ This repository is **concepts and practice** only: principles, versioning, scaff
 | [docs/en/PRINCIPLES.md](docs/en/PRINCIPLES.md) | Ten principles |
 | [docs/en/VERSIONING.md](docs/en/VERSIONING.md) | Versioning (three layers) |
 | [docs/en/NEW_PROTOCOL.md](docs/en/NEW_PROTOCOL.md) | Starting a new protocol |
+| [docs/en/PROJECT_JOINTS.md](docs/en/PROJECT_JOINTS.md) | Four protocols on the delivery path |
 | [docs/en/PROTOCOL_INDEX.md](docs/en/PROTOCOL_INDEX.md) | Protocol family index |
 | [templates/protocol-repo/](templates/protocol-repo/) | Copyable protocol-repo skeleton |
 
