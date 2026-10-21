@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/schemas/example.v1.schema.json",
+  "title": "Example protocol envelope v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["protocol", "version"],
+  "properties": {
+    "protocol": { "type": "string", "const": "example" },
+    "version": { "type": "integer", "const": 1 }
+  }
+}

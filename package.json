@@ -1,0 +1,13 @@
+{
+  "name": "joint-spec",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Joint-spec Development — concepts and practice (卯合开发)",
+  "license": "MIT",
+  "scripts": {
+    "test": "node scripts/check-no-brand.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
